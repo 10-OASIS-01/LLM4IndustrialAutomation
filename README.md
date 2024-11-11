@@ -9,7 +9,7 @@ This paper reading synthesizes research on the application of large language mod
 
 ---
 
-### 1. **Pre-Trained Large Language Models for Industrial Control (Song et al.)**
+#### 1. **Pre-Trained Large Language Models for Industrial Control (Song et al.)**
 
    - **Objective:** To test the capabilities of LLMs, specifically GPT-4, in controlling HVAC systems, focusing on sample efficiency and adaptability.
    - **Methodology:** The HVAC control task is framed as a language game, where GPT-4 receives text-based prompts (e.g., task description, selected demonstrations, and current observations) and responds with control actions.
@@ -18,7 +18,7 @@ This paper reading synthesizes research on the application of large language mod
 
 ---
 
-### 2. **Control Industrial Automation System with Large Language Models (Xia et al.)**
+#### 2. **Control Industrial Automation System with Large Language Models (Xia et al.)**
 
    - **Objective:** To integrate LLMs into an industrial automation framework, creating an end-to-end control system that’s more intuitive and adaptive than traditional automation setups.
    - **Framework Design:** 
@@ -30,7 +30,7 @@ This paper reading synthesizes research on the application of large language mod
 
 ---
 
-### 3. **LLM Experiments with Simulation: Multi-Agent System for Digital Twin Parametrization (Xia et al.)**
+#### 3. **LLM Experiments with Simulation: Multi-Agent System for Digital Twin Parametrization (Xia et al.)**
 
    - **Objective:** To automate simulation model parametrization in digital twins using a multi-agent LLM system, facilitating a more dynamic and autonomous configuration process.
    - **Design Features:** LLM agents are assigned to observe, reason, and make decisions based on digital twin simulations, dynamically exploring and selecting viable parameters.
@@ -39,7 +39,7 @@ This paper reading synthesizes research on the application of large language mod
 
 ---
 
-### 4. **Towards Autonomous Systems: Modular Production with LLM-Enhanced Control (Xia et al.)**
+#### 4. **Towards Autonomous Systems: Modular Production with LLM-Enhanced Control (Xia et al.)**
 
    - **Objective:** To combine modular production systems, digital twins, and LLMs to enable intelligent task planning and flexible control in a smart factory environment.
    - **Framework Components:** 

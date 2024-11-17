@@ -1,4 +1,4 @@
-### **Leveraging Large Language Models for Advanced Industrial Control, Automation, and Robotics**
+## **Leveraging Large Language Models for Advanced Industrial Control, Automation, and Robotics**
 
 This integrated paper reading synthesizes key research on the application of Large Language Models (LLMs) in enhancing industrial control, automation, and robotics, particularly in dynamic environments like smart factories and complex industrial settings. By focusing on how LLMs enable intuitive human-machine communication, task planning, and autonomous decision-making, the papers showcase the transformative potential of LLMs in both industrial and robotic systems. These studies emphasize how language-based models improve system flexibility, adaptability, and real-time control in a wide range of industrial applications.
 

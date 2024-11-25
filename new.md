@@ -58,6 +58,12 @@ This section examines the evolving role of LLMs in the design and optimization o
 
 - **Fine-Tuning Language Models Using Formal Methods**: A new approach for fine-tuning LLMs in critical applications like autonomous driving, this paper demonstrates how formal verification can be used to ensure LLM-driven systems meet stringent performance and safety requirements.
 
+### **5. Advances in Efficiency and Scalability of LLMs for Autonomous Decision-Making**
+
+This section focuses on recent developments aimed at improving the efficiency, scalability, and practical applicability of LLMs in real-world decision-making, particularly in environments with complex and dynamic histories. These studies explore novel techniques for optimizing the use of LLMs in autonomous systems, enabling more effective learning, fewer training samples, and better real-time performance in long-horizon tasks.
+
+- **Diff History for Neural Language Agents**: This paper introduces "diff history," a novel technique to enhance the performance of LLM-based controllers in complex environments. By applying the Unix `diff` command to the interaction histories, this method abstracts redundant information and focuses the model on the essential changes in the environment. The approach significantly reduces the number of training examples needed while improving the efficiency of low-sample instruction tuning. It achieves state-of-the-art performance on the challenging NetHack environment with 1800x fewer training examples than previous methods, demonstrating how diff history can scale and improve LLM performance in dynamic and long-horizon tasks. [Link to code and data available here].
+
 ---
 
 ### **Conclusion and Future Research Directions**

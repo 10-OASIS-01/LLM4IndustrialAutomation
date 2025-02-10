@@ -5,6 +5,7 @@
 
 This paper reading synthesizes research on the application of large language models (LLMs) to enhance control, automation, and robotics within industrial settings. These studies illustrate how LLMs are being leveraged beyond traditional controllers, providing adaptability, flexibility, and configurability through natural language interfaces across a range of applications. Each paper explores unique methods of deploying LLMs in industrial environments, addressing automation, simulation, and modular production, while offering insights into how LLMs facilitate more intuitive human-machine interactions and decision-making processes.
 
+**We welcome contributions and feedback from the community to further enrich this paper reading. If you have relevant research, insights, or suggestions, please feel free to contribute to this ongoing exploration of LLMs in industrial control and automation.**
 
 <p align="center">
   <img src="cover.png" alt="Cover Image" width="80%"><br>
